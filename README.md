@@ -8,7 +8,11 @@ This Project consist of open source API end points, Anyone can take it and test 
 
 For the development of this APIs, I have used Laravel with Eloquent and for DB, MySql is there.
 
-## To Run the Project
+## Project Setup
+
+- **composer install**
+
+- **php artisan migrate**
 
 - **php artisan serve**
 
