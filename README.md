@@ -6,7 +6,7 @@
 
 This Project consist of open source API end points, Anyone can take it and test there Application using this APIs.
 
-For the development of this APIs, I have using Laravel with Eloquent and for DB, MySql is there.
+For the development of this APIs, I have used Laravel with Eloquent and for DB, MySql is there.
 
 ## To Run the Project
 
