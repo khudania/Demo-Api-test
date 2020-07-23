@@ -12,6 +12,10 @@ For the development of this APIs, I have used Laravel with Eloquent and for DB, 
 
 - **php artisan serve**
 
+## API End-points
+
+- To Retrive all data in Paginated Form (Each Page will get 15 data) -> **http://127.0.0.1:8000/api/articles**
+
 
 
 
