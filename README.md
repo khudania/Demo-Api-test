@@ -8,7 +8,7 @@ This Project consist of open source API end points, Anyone can take it and test 
 
 For the development of this APIs, I have used Laravel with Eloquent and for DB, MySql is there.
 
-Note: <p style="color:red">*Project is on Progress*</p>
+Note: *Project is on Progress*
 
 ## Project Setup
 
